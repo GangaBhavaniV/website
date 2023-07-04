@@ -187,18 +187,16 @@ section .title::after{
   display: flex;
 }
 .home .max-width .columnleft img{
-   
     margin-top: 80px;
     margin-right: 150px;
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 60px;
+    border-radius: 50px;
     margin-bottom: 0px;
     margin-left: 250px;
     margin-right: 0px;
-    
-}
+    }
 .home .max-width .row{
   margin-right: 0;
 }
