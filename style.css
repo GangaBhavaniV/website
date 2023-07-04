@@ -186,6 +186,19 @@ section .title::after{
   width: 100%;
   display: flex;
 }
+.home .max-width .columnleft img{
+    display: flex;
+    margin-top: 80px;
+    margin-right: 150px;
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    margin-right: 0px;
+    
+}
 .home .max-width .row{
   margin-right: 0;
 }
@@ -226,7 +239,7 @@ section .title::after{
     color: crimson;
     background: none;
 }
-.home .left img{
+/*.home .left img{
     margin-top: 80px;
     margin-right: 150px;
     height: 350px;
@@ -234,7 +247,7 @@ section .title::after{
     object-fit: cover;
     border-radius: 50px;
     margin-bottom: 0px;
-}
+}*/
 
 
 /* about section styling */
